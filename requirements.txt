@@ -1,0 +1,14 @@
+﻿fastapi
+uvicorn
+python-dotenv
+youtube-transcript-api
+chromadb
+pydantic
+python-multipart
+sqlalchemy
+python-jose[cryptography]
+bcrypt
+email-validator
+ollama
+langchain-core
+langgraph
